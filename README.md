@@ -1,6 +1,4 @@
-# Python-Basics-With-Sawaira
-
-# 🐍 Python Basics
+# 🐍 Python
 
 Welcome to the **Python Basics** module!
 
