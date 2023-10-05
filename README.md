@@ -6,19 +6,35 @@ This module is designed to provide you with a solid foundation in Python program
 
 ## 📋 What You'll Learn:
 
-- **Syntax and Fundamentals:** We'll cover the basics of Python syntax, data types, variables, and operators, so you'll feel comfortable writing your first Python programs.
+- **Python Syntax:** 
 
-- **Control Structures:** Learn how to control the flow of your code with conditional statements (if, elif, else) and loops (for and while).
+- **Python Variables:** 
 
-- **Functions:** Discover how to create reusable pieces of code with functions, and explore Python's built-in functions.
+- **Comments:** 
 
-- **Data Structures:** Dive into Python's data structures like lists, dictionaries, and tuples, and learn how to manipulate and work with data.
+- **Data Structures:** 
 
-- **File Handling:** Explore reading from and writing to files, an essential skill for working with data.
+- **Numeric Data Structure:** 
 
-- **Error Handling:** Learn how to handle errors gracefully with exception handling, making your programs more robust.
+- **String Data Structure:**
 
-- **Basic Projects:** Put your knowledge into practice with small Python projects that reinforce what you've learned.
+- **List Data Structure:** 
+
+- **Tuple Data Structure:**
+
+- **Set Data Structure:**
+
+- **Dictionary Data Structure:**
+
+- **conditionat Statments(If, elif, else):**
+
+- **Loop in python(While):**
+
+- **Python Functions:**
+
+- **Python Exceptions:**
+
+- **Python Build in modules:**
 
 ## 🎯 Who Is This For?
 
@@ -30,6 +46,6 @@ This module is designed to provide you with a solid foundation in Python program
 
 ## 🚀 Get Started:
 
-Feel free to explore the module's code examples, exercises, and projects. We encourage you to experiment and practice as much as possible. Python is a versatile and powerful language, and mastering its fundamentals is a valuable step toward becoming a proficient programmer.
+Feel free to explore the module's code examples. We encourage you to experiment and practice as much as possible. Python is a versatile and powerful language, and mastering its fundamentals is a valuable step toward becoming a proficient programmer.
 
 **Happy coding!**
