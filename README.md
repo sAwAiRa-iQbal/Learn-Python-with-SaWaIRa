@@ -28,7 +28,7 @@ This module is designed to provide you with a solid foundation in Python program
 
 - **conditionat Statments(If, elif, else):**
 
-- **Loop in python(While):**
+- **Loops in python(for, While):**
 
 - **Python Functions:**
 
